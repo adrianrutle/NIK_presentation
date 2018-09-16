@@ -1,0 +1,729 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="ex_project_vc_custom_normalisation_md_md2_md3_1.svg"
+   inkscape:version="0.48.1 r9760"
+   version="1.1"
+   id="svg3176"
+   height="490"
+   width="580">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.9306122"
+     inkscape:cx="221.8869"
+     inkscape:cy="245.00001"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1145"
+     inkscape:window-x="-2"
+     inkscape:window-y="32"
+     inkscape:window-maximized="1"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0" />
+  <defs
+     id="defs3178">
+    <marker
+       inkscape:stockid="Arrow2Mend"
+       orient="auto"
+       refY="0"
+       refX="0"
+       id="Arrow2Mend"
+       style="overflow:visible">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3836"
+         style="font-size:12px;fill-rule:evenodd;stroke-width:0.625;stroke-linejoin:round"
+         d="M 8.7185878,4.0337352 -2.2072895,0.01601326 8.7185884,-4.0017078 c -1.7454984,2.3720609 -1.7354408,5.6174519 -6e-7,8.035443 z"
+         transform="scale(-0.6,-0.6)" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="DotSGreen"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="DotSGreen">
+      <path
+         transform="matrix(0.2,0,0,0.2,1.48,0.2)"
+         style="fill:#007800;fill-rule:evenodd;stroke:#007800;stroke-width:1pt;marker-start:none;marker-end:none"
+         d="m -2.5,-1 c 0,2.76 -2.24,5 -5,5 -2.76,0 -5,-2.24 -5,-5 0,-2.76 2.24,-5 5,-5 2.76,0 5,2.24 5,5 z"
+         id="path4156"
+         inkscape:connector-curvature="0" />
+    </marker>
+  </defs>
+  <metadata
+     id="metadata3181">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-332.84375,-898.0625)"
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
+    <text
+       sodipodi:linespacing="125%"
+       id="text13081-9-5-6-0-7-2-9"
+       y="1382.4243"
+       x="879.55859"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:eufm10;-inkscape-font-specification:eufm10"
+       xml:space="preserve"><tspan
+         style="font-size:12px"
+         y="1382.4243"
+         x="879.55859"
+         id="tspan13083-1-0-8-1-9-2-8"
+         sodipodi:role="line">MD'''</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text13077-7-3-8-7-5-2-4"
+       y="1381.4825"
+       x="867.10486"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       xml:space="preserve"><tspan
+         style="font-size:12px;font-family:Palatino;-inkscape-font-specification:Palatino"
+         y="1381.4825"
+         x="867.10486"
+         id="tspan13079-6-8-7-6-2-7-8"
+         sodipodi:role="line">(l)</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text13081-9-5-6-0-7-2"
+       y="1382.4243"
+       x="579.55859"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:eufm10;-inkscape-font-specification:eufm10"
+       xml:space="preserve"><tspan
+         style="font-size:12px"
+         y="1382.4243"
+         x="579.55859"
+         id="tspan13083-1-0-8-1-9-2"
+         sodipodi:role="line">MD'''</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text13077-7-3-8-7-5-2"
+       y="1381.4825"
+       x="563.91736"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       xml:space="preserve"><tspan
+         style="font-size:12px;font-family:Palatino;-inkscape-font-specification:Palatino"
+         y="1381.4825"
+         x="563.91736"
+         id="tspan13079-6-8-7-6-2-7"
+         sodipodi:role="line">(k)</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text13081-9-5-6-0-71"
+       y="1212.0164"
+       x="882.11316"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:eufm10;-inkscape-font-specification:eufm10"
+       xml:space="preserve"><tspan
+         style="font-size:12px"
+         y="1212.0164"
+         x="882.11316"
+         id="tspan13083-1-0-8-1-7"
+         sodipodi:role="line">MD''</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text13077-7-3-8-7-4"
+       y="1210.6665"
+       x="870.33911"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       xml:space="preserve"><tspan
+         style="font-size:12px;font-family:Palatino;-inkscape-font-specification:Palatino"
+         y="1210.6665"
+         x="870.33911"
+         id="tspan13079-6-8-7-6-8"
+         sodipodi:role="line">(j)</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text13081-9-5-6-0"
+       y="1042.4067"
+       x="587.31641"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:eufm10;-inkscape-font-specification:eufm10"
+       xml:space="preserve"><tspan
+         style="font-size:12px"
+         y="1042.4067"
+         x="587.31641"
+         id="tspan13083-1-0-8-1"
+         sodipodi:role="line">MD</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text13077-7-3-8-7"
+       y="1041.4825"
+       x="571.37048"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       xml:space="preserve"><tspan
+         style="font-size:12px;font-family:Palatino;-inkscape-font-specification:Palatino"
+         y="1041.4825"
+         x="571.37048"
+         id="tspan13079-6-8-7-6"
+         sodipodi:role="line">(h)</tspan></text>
+    <rect
+       y="1238.5625"
+       x="633.34375"
+       height="149"
+       width="279"
+       id="rect4348-9-3-75-0"
+       style="fill:none;stroke:#c8c8c8;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       y="1238.5625"
+       x="333.34378"
+       height="149"
+       width="279"
+       id="rect4348-9-3-7-5"
+       style="fill:none;stroke:#c8c8c8;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       y="1068.5625"
+       x="633.34363"
+       height="149"
+       width="279"
+       id="rect4348-9-3-75"
+       style="fill:none;stroke:#c8c8c8;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <rect
+       y="898.5625"
+       x="333.34375"
+       height="149"
+       width="279"
+       id="rect4348-9-3-7"
+       style="fill:none;stroke:#c8c8c8;stroke-width:1;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0" />
+    <text
+       xml:space="preserve"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="760.75867"
+       y="1231.9565"
+       id="text3292"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3294"
+         x="760.75867"
+         y="1231.9565"
+         style="font-size:11px;font-family:Palatino;-inkscape-font-specification:Palatino">conservative conflict resolution</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="m 756.62441,1220.0625 0,15.1757"
+       id="path5089-9"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="m 630.84381,1220.0624 -15.57014,15.5573"
+       id="path3327-5-6"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="493.00278"
+       y="1231.9565"
+       id="text3288"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3290"
+         x="493.00278"
+         y="1231.9565"
+         style="font-size:11px;font-family:Palatino;-inkscape-font-specification:Palatino">liberal conflict resolution</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:9px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="672.81946"
+       y="1061.9565"
+       id="text3284"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         x="672.81946"
+         y="1061.9565"
+         id="tspan3296"
+         style="font-size:11px;text-align:center;text-anchor:middle;font-family:Palatino;-inkscape-font-specification:Palatino">conflict detection</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="833.87195"
+       y="1315.6781"
+       id="text2985-1-0-4-7-5-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2987-7-3-8-7-9-2"
+         x="833.87195"
+         y="1315.6781"
+         style="font-size:11px">University</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:33.66999817;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3010-2-49-7-6-4-9"
+       width="59.000267"
+       height="29.000265"
+       x="832.44385"
+       y="1298.1433" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="753.65564"
+       y="1329.8223"
+       id="text4307-25-2-4-9-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4309-2-7-3-0-9"
+         x="753.65564"
+         y="1329.8223">uStuds</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="m 832.34393,1319.0444 -118.17563,0"
+       id="path3804-3-4-2-0-9-0"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#007800;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="716.79822"
+       y="1329.8223"
+       id="text4307-2-92-6-3-1-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4309-3-2-1-0-7-8"
+         x="716.79822"
+         y="1329.8223">[surj]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#007800;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="762.83887"
+       y="1316.0972"
+       id="text4307-2-3-3-5-9-7-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4309-3-0-1-9-2-1-0"
+         x="762.83887"
+         y="1316.0972">[inv]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="661.84827"
+       y="1316.7444"
+       id="text2985-4-9-4-1-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2987-2-0-0-5-6"
+         x="661.84827"
+         y="1316.7444"
+         style="font-size:11px">Student</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:33.66999817;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3010-24-9-5-9-3"
+       width="59.000267"
+       height="29.000265"
+       x="654.24341"
+       y="1298.1434" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="754.78088"
+       y="1303.6665"
+       id="text4303-27-1-9-7-8"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4305-4-7-4-7-5"
+         x="754.78088"
+         y="1303.6665">sUnivs</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="m 713.34393,1306.2424 118.1756,0"
+       id="path3804-4-2-6-6-6"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#007800;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#DotSGreen);marker-end:url(#DotSGreen)"
+       d="m 759.79623,1319.0001 c 1.9867,-4.4315 1.9813,-8.7461 0,-12.7496"
+       id="path5114-83-4-5-7-1"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#007800;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="799.28906"
+       y="1302.3721"
+       id="text4303-2-38-6-9-3-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4305-3-60-1-2-6-5"
+         x="799.28906"
+         y="1302.3721">[1..3]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="533.87195"
+       y="1315.6781"
+       id="text2985-1-0-4-7-5"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2987-7-3-8-7-9"
+         x="533.87195"
+         y="1315.6781"
+         style="font-size:11px">University</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:33.66999817;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3010-2-49-7-6-4"
+       width="59.000267"
+       height="29.000265"
+       x="532.44385"
+       y="1298.1433" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="453.65567"
+       y="1329.8223"
+       id="text4307-25-2-4-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4309-2-7-3-0"
+         x="453.65567"
+         y="1329.8223">uStuds</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="m 532.34394,1319.0445 -118.17563,0"
+       id="path3804-3-4-2-0-9"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#007800;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="416.79825"
+       y="1329.8223"
+       id="text4307-2-92-6-3-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4309-3-2-1-0-7"
+         x="416.79825"
+         y="1329.8223">[surj]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#007800;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="462.8389"
+       y="1316.0972"
+       id="text4307-2-3-3-5-9-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4309-3-0-1-9-2-1"
+         x="462.8389"
+         y="1316.0972">[inv]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="361.84827"
+       y="1316.7444"
+       id="text2985-4-9-4-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2987-2-0-0-5"
+         x="361.84827"
+         y="1316.7444"
+         style="font-size:11px">Student</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:33.66999817;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3010-24-9-5-9"
+       width="59.000267"
+       height="29.000265"
+       x="354.24341"
+       y="1298.1434" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="454.78091"
+       y="1303.6665"
+       id="text4303-27-1-9-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4305-4-7-4-7"
+         x="454.78091"
+         y="1303.6665">sUnivs</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="m 413.34394,1306.2425 118.1756,0"
+       id="path3804-4-2-6-6"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#007800;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#DotSGreen);marker-end:url(#DotSGreen)"
+       d="m 459.79624,1319.0002 c 1.9867,-4.4315 1.9813,-8.7461 0,-12.7496"
+       id="path5114-83-4-5-7"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#007800;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="499.28909"
+       y="1302.3721"
+       id="text4303-2-38-6-9-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4305-3-60-1-2-6"
+         x="499.28909"
+         y="1302.3721">[0..4]</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:18.82999992;stroke-opacity:1;stroke-dasharray:1, 2;stroke-dashoffset:0"
+       id="rect5617-6-9"
+       width="129.00005"
+       height="34.000038"
+       x="708.34412"
+       y="1114.3293" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="833.87225"
+       y="1151.5823"
+       id="text2985-1-0-4-7"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2987-7-3-8-7"
+         x="833.87225"
+         y="1151.5823"
+         style="font-size:11px">University</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:33.66999817;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3010-2-49-7-6"
+       width="59.000267"
+       height="29.000265"
+       x="832.44415"
+       y="1134.0475" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="753.65594"
+       y="1165.7264"
+       id="text4307-25-2-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4309-2-7-3"
+         x="753.65594"
+         y="1165.7264">uStuds</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="m 832.34421,1154.9487 -118.17563,0"
+       id="path3804-3-4-2-0"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#007800;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="716.79852"
+       y="1165.7264"
+       id="text4307-2-92-6-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4309-3-2-1-0"
+         x="716.79852"
+         y="1165.7264">[surj]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#007800;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="762.83917"
+       y="1152.0013"
+       id="text4307-2-3-3-5-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4309-3-0-1-9-2"
+         x="762.83917"
+         y="1152.0013">[inv]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="661.84851"
+       y="1152.6486"
+       id="text2985-4-9-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2987-2-0-0"
+         x="661.84851"
+         y="1152.6486"
+         style="font-size:11px">Student</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:33.66999817;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3010-24-9-5"
+       width="59.000267"
+       height="29.000265"
+       x="654.24365"
+       y="1134.0476" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="754.78119"
+       y="1139.5707"
+       id="text4303-27-1-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4305-4-7-4"
+         x="754.78119"
+         y="1139.5707">sUnivs</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="m 713.34421,1142.1467 118.1756,0"
+       id="path3804-4-2-6"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#007800;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#DotSGreen);marker-end:url(#DotSGreen)"
+       d="m 759.79651,1154.9044 c 1.9867,-4.4315 1.9813,-8.7461 0,-12.7496"
+       id="path5114-83-4-5"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#007800;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="799.28937"
+       y="1138.2762"
+       id="text4303-2-38-6-9"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4305-3-60-1-2"
+         x="799.28937"
+         y="1138.2762">[1..4]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#007800;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="799.28937"
+       y="1126.4686"
+       id="text4303-2-6-1-1-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4305-3-37-1-7-7"
+         x="799.28937"
+         y="1126.4686">[0..3]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="533.87231"
+       y="981.58234"
+       id="text2985-1-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2987-7-3"
+         x="533.87231"
+         y="981.58234"
+         style="font-size:11px">University</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:33.66999817;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3010-2-49"
+       width="59.000267"
+       height="29.000265"
+       x="532.44421"
+       y="964.04755" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="454.78128"
+       y="969.57068"
+       id="text4303-27"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4305-4"
+         x="454.78128"
+         y="969.57068">sUnivs</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="453.65604"
+       y="995.72644"
+       id="text4307-25"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4309-2"
+         x="453.65604"
+         y="995.72644">uStuds</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="m 413.34424,972.14671 118.1756,0"
+       id="path3804-4"
+       inkscape:connector-curvature="0" />
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="m 532.34421,984.94876 -118.1756,0"
+       id="path3804-3-4"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#007800;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="499.28946"
+       y="968.27625"
+       id="text4303-2-38"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4305-3-60"
+         x="499.28946"
+         y="968.27625">[1..4]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#007800;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="416.79868"
+       y="995.72644"
+       id="text4307-2-92"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4309-3-2"
+         x="416.79868"
+         y="995.72644">[surj]</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#007800;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="462.83926"
+       y="982.00134"
+       id="text4307-2-3-3"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4309-3-0-1"
+         x="462.83926"
+         y="982.00134">[inv]</tspan></text>
+    <path
+       style="fill:none;stroke:#007800;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:url(#DotSGreen);marker-end:url(#DotSGreen)"
+       d="m 459.79653,984.90441 c 1.98668,-4.4315 1.98131,-8.74601 0,-12.74957"
+       id="path5114-83"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="361.84863"
+       y="982.64856"
+       id="text2985-4"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2987-2"
+         x="361.84863"
+         y="982.64856"
+         style="font-size:11px">Student</tspan></text>
+    <rect
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-miterlimit:33.66999817;stroke-opacity:1;stroke-dasharray:none;stroke-dashoffset:0"
+       id="rect3010-24"
+       width="59.000267"
+       height="29.000265"
+       x="354.24377"
+       y="964.04761" />
+    <text
+       xml:space="preserve"
+       style="font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#007800;fill-opacity:1;stroke:none;font-family:DejaVu Sans;-inkscape-font-specification:DejaVu Sans"
+       x="499.28946"
+       y="956.46863"
+       id="text4303-2-6-1"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan4305-3-37-1"
+         x="499.28946"
+         y="956.46863">[0..3]</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:1;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-end:url(#Arrow2Mend)"
+       d="m 614.83681,1050.0692 15.57014,15.5573"
+       id="path3327-5-6-1"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>

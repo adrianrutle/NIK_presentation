@@ -1,4 +1,4 @@
-\documentclass[dvips,slidetop,mathserif,red]{beamer}
+\documentclass[dvips,slidetop,mathserif,brown]{beamer}
 
 \usepackage[utf8]{inputenc}
 \usepackage[T1]{fontenc}
@@ -30,7 +30,7 @@
 
 \begin{document}
 
-\title{Model-driven engineering in RDF - a way to version control\footnote{Courtesy to Alessandro Rossini}}
+\title{Model-driven engineering in RDF - a way to version control}% \footnote{Courtesy to Alessandro Rossini}}
 
 \subject{Model-driven engineering in RDF - a way to version control}
 
@@ -577,8 +577,8 @@ inv:
   \end{itemize}
   \begin{itemize}
       \item \underline{Sound formal foundation}
-      \item \underline{However: lacks implementation!}
-      \item \centering Rely on Resource Definition Format (RDF)
+      \item \underline{Lacks implementation!}
+      \item \centering Serialise to and rely on Resource Definition Format (RDF)
   \end{itemize}
 \end{frame}
 
@@ -596,7 +596,7 @@ inv:
 \begin{frame}[t]{DPF as RDF by example}
   \only<1->{
       \centering
-      \includegraphics[scale=0.5]{ex_projects_hierarchy_new}
+      \includegraphics[scale=0.4]{ex_projects_hierarchy_new}
   }
   \only<2>{
       \centering
@@ -613,7 +613,61 @@ inv:
 \end{frame}
 
 
+\begin{frame}{RDF serialization}
+	\begin{block}{}
+		An RDF document is a set of triples
+		$(s,p,o)\in(U\cup B)\times U\times(U\cup B\cup D)$, where
+		$U$ is a set of URIs (universally unique identifiers),
+		$B$ is a set of blind nodes (which can be viewed as local identifiers),
+		and $D$ is a set of literals.
+	\end{block}
+	\begin{itemize}
+		\item The same element may be both a vertex and an edge label
+		\item The set of literals $D$, can only appear
+		as a destination node of an arrow
+		\item The set of vertices $V$ is not explicitly defined
+		\item A vertex can only exist if it is connected to some arrow
+	\end{itemize}
+\end{frame}
 
+\begin{frame}{Patch representation in RDF}
+\begin{block}{}
+	\begin{center}
+		$\xymatrix{
+			& V_0 \ar@{->}[dr]^-{(V_1\backslash V_0,V_0\backslash V_1)}   \\
+			& & V_1 
+		}$
+	\end{center}
+\end{block}
+\begin{itemize}
+	\item $V_0, V_1$: sets of triples
+	\item $(V_1\backslash V_0,V_0\backslash V_1)$: patch representation
+	\begin{itemize}
+		\item $V_1\backslash V_0$: the triples to be added
+		\item $V_0\backslash V_1$: the set of triples to be removed
+	\end{itemize}
+\end{itemize}
+\end{frame}
+
+\begin{frame}{Patch for three-way merging}
+\begin{block}{}
+	  \begin{center}
+		$\xymatrix{
+			& V_0 \ar@{->}[dr]^-{P_b}  
+				\ar[dl]_-{P_a} \\
+			V_a \ar[dr]^-{P_c} & & V_b \ar@{->}[dl]^-{} \\
+			& V_c
+		}$
+	\end{center}
+\end{block}
+\begin{itemize}
+	\item $P_a=(V_a\backslash V,V\backslash V_a)$ 
+	\item $P_b=(V_b\backslash V,V\backslash V_b)$
+	\item $P_c=( (V_a\backslash V)\cup(V_b\backslash V),
+	(V\backslash V_a)\cup(V\backslash V_b))$: the merged patch
+	\item $V_c$ is obtained by applying the patch $P_c$ to $V$.
+\end{itemize}
+\end{frame}
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% BACKUPS %%%%%%%%%%%%
@@ -1028,7 +1082,7 @@ inv:
   \vspace{5em}
   \begin{center}
     \begin{Huge}
-      \textbf{Questions?}
+      \textbf{Questions?\footnote{Courtesy to Alessandro Rossini for shareing introductory slides.}}
     \end{Huge}
   \end{center}
   \vspace{5em}

@@ -594,6 +594,51 @@ inv:
 \end{frame}
 
 \begin{frame}[t]{DPF as RDF by example}
+
+\begin{columns}[T]
+
+\column{.5\textwidth}
+  \only<1->{
+	\centering
+	\includegraphics[scale=0.2]{ex_projects_hierarchy_top}
+	}
+  \only<2>{
+	\centering
+	\includegraphics[scale=0.3]{top}
+	}
+  \only<3->{
+	\centering
+	\includegraphics[scale=0.2]{top}
+}
+
+\column{.5\textwidth}
+	\only<3>{
+	\begin{itemize}
+		\item<3> An RDF document is a set of triples
+		$(s,p,o) \in (U\cup B)\times U\times(U\cup B\cup D)$, where
+		$U$ is a set of URIs (universally unique identifiers),
+		$B$ is a set of blind nodes (which can be viewed as local identifiers),
+		and $D$ is a set of literals.
+	\end{itemize}
+	}
+	\only<4>{
+	\begin{block}{Observations}	
+	\begin{itemize}
+		\item<4> The same element may be both a vertex and an edge label
+		\item<4> The set of literals $D$, can only appear
+		as a destination node of an arrow
+		\item<4> The set of vertices $V$ is not explicitly defined
+		\item<4> A vertex can only exist if it is connected to some arrow
+	\end{itemize}
+	\end{block}
+	}	
+\end{columns}
+\end{frame}
+
+
+
+
+\begin{frame}[t]{DPF as RDF by example}
   \only<1->{
       \centering
       \includegraphics[scale=0.4]{ex_projects_hierarchy_new}
@@ -613,22 +658,6 @@ inv:
 \end{frame}
 
 
-\begin{frame}{RDF serialization}
-	\begin{block}{}
-		An RDF document is a set of triples
-		$(s,p,o)\in(U\cup B)\times U\times(U\cup B\cup D)$, where
-		$U$ is a set of URIs (universally unique identifiers),
-		$B$ is a set of blind nodes (which can be viewed as local identifiers),
-		and $D$ is a set of literals.
-	\end{block}
-	\begin{itemize}
-		\item The same element may be both a vertex and an edge label
-		\item The set of literals $D$, can only appear
-		as a destination node of an arrow
-		\item The set of vertices $V$ is not explicitly defined
-		\item A vertex can only exist if it is connected to some arrow
-	\end{itemize}
-\end{frame}
 
 \begin{frame}{Patch representation in RDF}
 \begin{block}{}
@@ -668,6 +697,46 @@ inv:
 	\item $V_c$ is obtained by applying the patch $P_c$ to $V$.
 \end{itemize}
 \end{frame}
+
+\begin{frame}{Conflicts in DPF/RDF}
+%\begin{block}{}
+	\begin{center}
+		\includegraphics<1->[width=0.3\textwidth]{ex_project_vc_standard_spec_md_2}
+	\end{center}
+%\end{block}
+%\begin{block}{Problem}
+	\begin{itemize}
+		\item<1,2> Not a valid graph (dangling edge)
+		\item<3-> Not a valid target graph for atomic constraint
+		\item<3-> Type violation
+	\end{itemize}
+%\end{block}
+
+%\begin{block}{Solution}
+	\begin{itemize}
+		\item<2> RDF: Participation in a triple means existence 
+		\item<2> Solution: We consider deleted as untyped
+		\item<3-> Check against definitions of graph and graph homomorphism
+	\end{itemize}
+%\end{block}
+
+\end{frame}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% BACKUPS %%%%%%%%%%%%
